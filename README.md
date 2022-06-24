@@ -25,5 +25,4 @@ Je m'appel Vénance , je code pas beaucoup mais j'addore modifier tout plein de 
 ### Mes stats 📊
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tazzeur&layout=compact)](https://github.com/tazzeur/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tazzeur&show_icons=true&theme=gradient)
