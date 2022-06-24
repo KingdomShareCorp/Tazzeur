@@ -15,6 +15,9 @@ Je m'appel Vénance , je code pas beaucoup mais j'addore modifier tout plein de 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />ㅤ
 
+<a href="https://nodejs.org/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/pl/docs/Web/JavaScript" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
+
 ---
 
 ### Va me voir sur 💻
