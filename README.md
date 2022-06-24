@@ -19,8 +19,8 @@ Je m'appel Vénance , je code pas beaucoup mais j'addore modifier tout plein de 
 
 ### Va me voir sur 💻
 
-- **Youtube ⏸** https://www.youtube.com/channel/UCFLUZf84Ce8M6wkJ6ghZvGw
-- **Instagram 📸** https://instagram.com/tazeur_gova 
+- [**Youtube ⏸**](https://www.youtube.com/channel/UCFLUZf84Ce8M6wkJ6ghZvGw )
+- [**Instagram 📸**](https://instagram.com/tazeur_gova) 
 
 ### Mes stats 📊
 
